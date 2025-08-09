@@ -145,7 +145,7 @@ but in pop-up form.
 
 ### Project Demo
 # Video
-*unfortunately, the pop-up doesn't show up on screen-recording*
+https://drive.google.com/file/d/1opLiPB0DWbUYGHmst5GBIZjXSBY1IDo3/view?usp=sharing
 
 
 
