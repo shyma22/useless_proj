@@ -75,3 +75,6 @@ It’s just a needy little program desperate for your attention.
 Here’s what you’ll be “blessed” with when running this program:  
 
 ![Useless Popup Screenshot](screenshot.png)
+
+# 🎬 Created by: Shyma Zuhra 
+### 🎓 In the role of: Student @ GEC Kozhikode 
