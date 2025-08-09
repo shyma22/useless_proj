@@ -1,4 +1,4 @@
-"# S.A.S.S.Y. - Sentient Automated Sarcasm & Snark Yielder" 
+
 # 🤖 S.A.S.S.Y. — Sentient Automated Sarcasm & Snark Yielder  
 *(Not actually sentient… just Python pretending very convincingly.)*
 
@@ -70,3 +70,8 @@ It doesn’t improve performance.
 It doesn’t solve problems.  
 It’s just a needy little program desperate for your attention.
 
+## 📸 Screenshot
+
+Here’s what you’ll be “blessed” with when running this program:  
+
+![Useless Popup Screenshot](screenshot.png)
