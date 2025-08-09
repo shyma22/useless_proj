@@ -1,80 +1,155 @@
+img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-# 🤖 S.A.S.S.Y. — Sentient Automated Sarcasm & Snark Yielder  
-*(Not actually sentient… just Python pretending very convincingly.)*
 
----
+# 🤖 S.A.S.S.Y. — Sentient Automated Sarcasm & Snark Yielder 🎯
 
-## 💡 What is S.A.S.S.Y.?
-S.A.S.S.Y. is a completely pointless Python program that acts like it’s self-aware.  
+
+## Basic Details
+### Team Name: Shyma Zuhra
+
+
+### Team Members
+- Team Lead: Shyma Zuhra - GEC Kozhikode
+
+
+### Project Description
+S.A.S.S.Y. is a completely pointless Python program that acts like it’s self-aware.
 Its mission? To interrupt your day with popups, sarcastic voice comments, and milestone celebrations that mean absolutely nothing.
 
----
+### The Problem (that doesn't exist)
+Let’s face it, your computer is way too quiet, your CPU works too hard without thanks, and your mouse & keyboard clicks go completely uncelebrated.
 
-## 🧠 How it Works
-It’s **not** AI. It’s not even smart. It’s just:
-- `psutil` to stalk your CPU usage every 10 seconds.
-- `pyttsx3` to read out snarky comments in a robotic voice.
-- `tkinter` or `PySimpleGUI` to show popups you never wanted.
-- `pynput` to spy on your clicks and key presses.
+This leads to:
 
-Basically: Python + libraries + sarcasm = chaos.
+- Severe lack of sass in your computing life 🥱
 
----
+- Unmotivated keystrokes and mouse clicks 😔
 
-## 🔥 Features
-- **10-Second CPU Reports** — “Your CPU is loafing around again.”
-- **Milestone Mouse Clicks** — Celebrations for 10, 20, 30… clicks nobody cares about.
-- **Keyboard Input Tracking** — Every key press is a chance for more sass.
-- **Voice Commentary** — Popups are *spoken aloud* so ignoring them is impossible.
-- **Zero Practical Use** — Exactly as advertised.
+- CPUs feeling underappreciated 💔
 
----
+### The Solution (that nobody asked for)
+Useless Sassy Sentient System — the software equivalent of that one overly dramatic friend who has to comment on everything you do.
 
-## 📦 Requirements
-- Python 3.x
-- `psutil`
-- `pyttsx3`
-- `tkinter` / `PySimpleGUI`
-- `pynput`
+This groundbreaking innovation will:
 
-Install them:
-```bash
-pip install psutil pyttsx3 pynput PySimpleGUI
+- Interrupt your peace every 10 seconds with pop-ups you never wanted 🛎️
+
+- Verbally judge your CPU for working too hard or hardly working 🎙️
+
+- Celebrate your mouse clicks like you just won the Olympics 🖱️🥇
+
+- Applaud random key presses as if you’ve typed the cure for boredom ⌨️👏
+
+- Add unnecessary chaos to your otherwise peaceful computing experience 🤯
+
+In short:
+It solves absolutely nothing.
+It fixes problems that never existed.
+It’s here because… why not? 🤷‍♂️
+
+## Technical Details
+### Technologies/Components Used
+For Software:
+- **Languages used**: Python 🐍
+
+- **Libraries used:**  
+  - `psutil` – to stalk your CPU usage  
+  - `pyttsx3` – to make your computer talk back to you  
+  - `tkinter` – for those *in-your-face* pop-up windows  
+  - `pynput` – to spy on your keyboard presses and mouse clicks  
+  
+- **Tools used:**  
+  - Git & GitHub – for version control (and to make this chaos shareable)  
+  - Your patience – because you’ll need it  
+
+
+### Implementation
+1. **Check CPU Usage**  
+   Every 10 seconds, the script politely (and unnecessarily) checks your CPU usage using `psutil`.  
+   Why? No reason. Just because it can.  
+
+2. **Spawn Pop-ups**  
+   Depending on the CPU usage, `tkinter` creates pop-up messages filled with sarcasm, sass, and complete irrelevance.  
+
+3. **Talk to You (Like You Asked for It)**  
+   Using `pyttsx3`, the system reads these useless comments out loud — because silence is overrated.  
+
+4. **Track Mouse Clicks & Keyboard Presses**  
+   With `pynput`, every click and key press is counted.  
+   When you reach completely arbitrary milestones (like 10, 20, 30, 50, 100 clicks),  
+   the system celebrates with a *special* pop-up and audio commentary. 🎉  
+
+5. **Repeat Forever**  
+   This continues until you either:  
+   - Close the program, or  
+   - Lose your patience entirely.  
+# Installation
+1. **Clone this ridiculously unnecessary project**  
+   ```bash
+   git clone https://github.com/shyma22/useless_proj.git
+   cd useless_proj
 ```
-## 🛠 Installation
-- Clone the repo:
-```bash
-git clone https://github.com/shyma22/useless_proj.git
-
-cd useless_proj
-```
-- Run the program:
+# Run
 ```bash
 python main.py
 ```
-## 🏆 Sample Snark
-- “10 clicks? I hope you’re proud of yourself.”
-- “CPU at 15%. Just like your effort.”
-- “You pressed ‘Enter’? Groundbreaking.”
 
-## ❓ Why Is This Useless?
-Because it exists purely to annoy you.
+### Project Documentation
+**Useless Sassy System** is a Python-powered annoyance generator that nobody asked for, yet here it is.  
+It watches your computer’s activity like an over-caffeinated digital stalker and throws pop-ups at you  
+every 10 seconds with sarcastic, pointless commentary.
 
-This “Sassy Sentient System”:
-- Pops up **random, sarcastic, or pointless messages** every 10 seconds based on your CPU usage — whether you care or not.
-- Tracks your mouse clicks and celebrates “milestones” like **10 clicks, 20 clicks, 50 clicks**… as if anyone asked.
-- Reacts to every key press with popups that praise you for hitting *literally any key*.
-- Reads the sass aloud using `pyttsx3` because *reading silently is too mainstream*.
+But wait, there’s *less*!  
+- **CPU Usage Watchdog**: Every 10 seconds, it checks your CPU usage and mocks/praises you for…  
+  basically doing nothing.
+- **Mouse Click Tracker**: Tracks how many times you’ve clicked your mouse. Celebrates completely  
+  unnecessary milestones like *10 clicks* as if you’ve discovered fire.
+- **Keyboard Key Press Tracker**: Because every keystroke deserves an audience… right?  
+  Get ready for pop-ups that applaud you for typing a single letter.
+- **Voice Commentary**: Using `pyttsx3`, your PC *literally talks* to you in a sassy tone.  
+  Imagine your computer roasting you out loud.
+- **Milestone Celebrations**: Every so often, you hit a “milestone” like 50 clicks or 100 key presses,  
+  and the system throws you a party you never wanted.
 
-It doesn’t improve performance.  
-It doesn’t solve problems.  
-It’s just a needy little program desperate for your attention.
+---
 
-## 📸 Screenshot
+#### 🤷 Why is it useless?  
+Because it **solves no problem** at all.  
+In fact, it *creates* problems by distracting you, eating a tiny amount of CPU, and giving you  
+absolutely no valuable feedback about your system.  
+It’s the equivalent of a clingy digital friend who keeps texting you “Hey, just thinking about you”  
+but in pop-up form.
 
-Here’s what you’ll be “blessed” with when running this program:  
+---
 
-![Useless Popup Screenshot](screenshot.png)
+# Screenshots 
+![Screenshot1](screenshot.png)
+*Pop-ups*
 
-# 🎬 Created by: Shyma Zuhra 
-### 🎓 In the role of: Student @ GEC Kozhikode 
+![Screenshot2](1.png)
+*Pop-ups lol*
+
+![Screenshot3](2.png)
+*More pop-ups lol*
+
+
+
+
+
+
+
+### Project Demo
+# Video
+*unfortunately, the pop-up doesn't show up on screen-recording*
+
+
+
+## Team Contributions
+- Shyma Zuhra: Literally everything
+
+
+---
+Made with ❤️ at TinkerHub Useless Projects 
+
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
