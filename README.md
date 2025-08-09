@@ -129,7 +129,7 @@ but in pop-up form.
 ![Screenshot1](screenshot.png)
 *Pop-ups*
 
-![Screenshot2](1.png)
+![Screenshot2](3.png)
 *Pop-ups lol*
 
 ![Screenshot3](2.png)
