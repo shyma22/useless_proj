@@ -87,8 +87,11 @@ For Software:
 1. **Clone this ridiculously unnecessary project**  
    ```bash
    git clone https://github.com/shyma22/useless_proj.git
+
    cd useless_proj
-```
+   ```
+
+
 # Run
 ```bash
 python main.py
