@@ -40,4 +40,33 @@ Basically: Python + libraries + sarcasm = chaos.
 Install them:
 ```bash
 pip install psutil pyttsx3 pynput PySimpleGUI
+```
+## 🛠 Installation
+- Clone the repo:
+```bash
+git clone https://github.com/shyma22/useless_proj.git
+
+cd useless_proj
+```
+- Run the program:
+```bash
+python main.py
+```
+## 🏆 Sample Snark
+- “10 clicks? I hope you’re proud of yourself.”
+- “CPU at 15%. Just like your effort.”
+- “You pressed ‘Enter’? Groundbreaking.”
+
+## ❓ Why Is This Useless?
+Because it exists purely to annoy you.
+
+This “Sassy Sentient System”:
+- Pops up **random, sarcastic, or pointless messages** every 10 seconds based on your CPU usage — whether you care or not.
+- Tracks your mouse clicks and celebrates “milestones” like **10 clicks, 20 clicks, 50 clicks**… as if anyone asked.
+- Reacts to every key press with popups that praise you for hitting *literally any key*.
+- Reads the sass aloud using `pyttsx3` because *reading silently is too mainstream*.
+
+It doesn’t improve performance.  
+It doesn’t solve problems.  
+It’s just a needy little program desperate for your attention.
 
