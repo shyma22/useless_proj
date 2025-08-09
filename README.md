@@ -84,7 +84,8 @@ For Software:
    - Close the program, or  
    - Lose your patience entirely.  
 # Installation
-1. **Clone this ridiculously unnecessary project**  
+1. **Clone this ridiculously unnecessary project** 
+
    ```bash
    git clone https://github.com/shyma22/useless_proj.git
 
@@ -93,6 +94,7 @@ For Software:
 
 
 # Run
+
 ```bash
 python main.py
 ```
